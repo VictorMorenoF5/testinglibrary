@@ -15,3 +15,7 @@ const Counter = () => {
 };
 
 export default Counter;
+
+//Tips posibles errores de link y useNavigate
+
+///import { MemoryRouter } from "react-router";
